@@ -67,7 +67,7 @@ Enter that directory by typing `cd ent` and then hitting the "tab" key to "tab c
 
 ## Summary
 
-Congratulations! You've installed the Anaconda distribution of Python, you've installed Git, and you've learned how to fork (copy) and clone (download) a lesson from GitHub. 
+Congratulations! You've installed the Anaconda distribution of Python, you've installed Git, and you've learned how to fork (make your own copy on GitHub) and clone (download a copy of) a lesson from GitHub. 
 
 Don't worry if you're still a little fuzzy about all of the details or even if you ran into some technical challenges you couldn't resolve. We'll take a little time in the first lesson to go over this and in pretty much every future lesson we'll spend time practicing the basics. 
 
