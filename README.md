@@ -26,7 +26,7 @@ It'll take you to a "New Issue" screen in GitHub for that lesson where you can c
 
 ![New Issue Screen](http://curriculum-content.s3.amazonaws.com/ent-ds-deloitte/issues-screen.png)
 
-Please try to be as specific as possible about the issue (ideally what is there, what you'd expect to be there and the difference between the two), and remember that issues are for bugs or typos in the curriculum. It won't get you technical or educational support if you're just having problems figuring out the lesson - ask your instructor for that!
+Please try to be as specific as possible about the issue (ideally what is there, what you'd expect to be there and the difference between the two), and remember that issues are for bugs or typos in the curriculum. It won't get you technical or educational support. If you are just having problems figuring out the lesson, ask your instructor for help in class!
 
 ### Working on Labs and Projects
 For many simple lessons, you'll just view the content using Learn. However, some of the lessons (they have a title that ends with "Lab" or "Project") will require you to download the files so you can work on them locally. It is really important to do that so (a) you can save the changes to the work you do and (b) so you can get practice working with local files like you will on real projects after this course.
@@ -54,15 +54,15 @@ Congratulations! You now have your very own copy of that project on GitHub that 
 #### Cloning a Lesson
 The next step is to download a copy of the lesson to your computer so that you can edit the files locally. That is called "cloning" the lesson/project/repo.
 
-To do that, start by opening Git Bash (Click on the Windows Start button and then either select or search fir "Git Bash". That will open a terminal window where you can type commands. Welcome to the terminal window - you're going to get to see a lot more of it as the course continues!
+To do that, start by opening Git Bash (Click on the Windows Start button and then either select or search for "Git Bash". That will open a terminal window where you can type commands. Welcome to the terminal window - you're going to get to see a lot more of it as the course continues!
 
 Then type (or feel free to cut and paste to avoid typos) `git clone https://github.com/learn-co-students/ent-ds-del-0-4-using-git-and-github-ds-deloitte-03192019`
 
-*In Git Bash, to paste from the clipboard the shortcut should be `ctrl-shift-insert`
+In Git Bash, to paste from the clipboard the shortcut should be `ctrl-shift-insert`
 
 This will create a new directory called `ent-ds-del-0-4-using-git-and-github-ds-deloitte-03192019`
 
-Enter that directory by typing `cd ent` and then hitting the "tab" key to "tab complete" the directory name. Then hit the enter key and you'll be in the project directory. To confirm that you can `ls` which will list the contentsd of the directory. You should see a few files including a  CONTRIBUTING.md, a LICENSE.md, a README.md and an index.ipynb.
+Enter that directory by typing `cd ent` and then hitting the "tab" key to "tab complete" the directory name. Then hit the enter key and you'll be in the project directory. To confirm that you can `ls` which will list the contents of the directory. You should see a few files including a CONTRIBUTING.md, a LICENSE.md, a README.md and an index.ipynb.
 
 
 ## Summary
@@ -71,5 +71,5 @@ Congratulations! You've installed the Anaconda distribution of Python, you've in
 
 Don't worry if you're still a little fuzzy about all of the details or even if you ran into some technical challenges you couldn't resolve. We'll take a little time in the first lesson to go over this and in pretty much every future lesson we'll spend time practicing the basics. 
 
-However, the good news is that you *should* have most of the software that you will need installed now, so we'll be able to jump right into learning some Python in the first class!
+However, the good news is that you *should* have most of the software that you will need installed now, so after a quick project to make sure everyone can download files and open them in Jupyter Notebook, we'll be able to jump right into learning some Python in the first class!
 
